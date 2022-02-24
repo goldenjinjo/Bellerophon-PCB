@@ -1,6 +1,6 @@
 (footprint "adafruit_" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6164E8CC)
+  (tedit 62145867)
   (attr through_hole)
   (fp_text reference "JP1" (at -7.6962 -1.8288) (layer "F.SilkS") hide
     (effects (font (size 0.77216 0.77216) (thickness 0.146304)) (justify left bottom))
@@ -10,6 +10,11 @@
     (effects (font (size 0.38608 0.38608) (thickness 0.038608)) (justify left bottom))
     (tstamp b5cea0b5-192f-476b-a3c8-0c26e2231699)
   )
+  (fp_text user "Adafruit BNO055" (at 0 -11 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 70958d22-1d71-4a37-b537-5eef707aa4aa)
+  )
+  (fp_rect (start 13.5 1.5) (end -13.5 -19.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp afaec224-6eb9-4aa4-acce-937066a89442))
   (fp_line (start -7.62 -0.635) (end -7.62 0.635) (layer "F.Fab") (width 0.2032) (tstamp 524d7aa8-362f-459a-b2ae-4ca2a0b1612b))
   (fp_poly (pts
       (xy -6.604 0.254)
