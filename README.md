@@ -1,7 +1,7 @@
 # hardware
 Schematic And PCB Design for Flight Computers
 
-PARTS LIST:
+**PARTS LIST:
 
 Microprocessor: Teensy 4.1
 Barometer/Altimeter: Adafruit MPL3115A2
