@@ -1337,7 +1337,7 @@
     (property "Value" "Conn_01x02_Female" (id 1) (at 234.95 140.9699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal" (id 2) (at 233.68 138.43 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" (id 2) (at 233.68 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 233.68 138.43 0)
@@ -1398,7 +1398,7 @@
     (property "Value" "Conn_01x02_Female" (id 1) (at 234.95 149.8599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal" (id 2) (at 233.68 147.32 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" (id 2) (at 233.68 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 233.68 147.32 0)
@@ -1429,7 +1429,7 @@
     (uuid 50f78511-b951-4dcf-a410-ebb84e2ce437)
     (property "Reference" "J1" (id 0) (at 33.02 17.145 0))
     (property "Value" "Conn_01x02_Female" (id 1) (at 33.02 19.685 0))
-    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal" (id 2) (at 44.45 20.955 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" (id 2) (at 44.45 20.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 44.45 20.955 0)
@@ -1643,13 +1643,13 @@
       (reference "IC4") (unit 1) (value "RFD900") (footprint "RFD900:1x28")
     )
     (path "/50f78511-b951-4dcf-a410-ebb84e2ce437"
-      (reference "J1") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical")
     )
     (path "/0ea184c9-73d1-4b8a-8896-3886b45cbf01"
-      (reference "J2") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal")
+      (reference "J2") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical")
     )
     (path "/419715bf-ffaa-4f14-ba39-b7cca3633324"
-      (reference "J3") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal")
+      (reference "J3") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical")
     )
     (path "/0c9ca546-3290-4390-b47a-32e3591868b6"
       (reference "U1") (unit 1) (value "Teensy4.1") (footprint "Teensy_4.1:Teensy_4.1")
