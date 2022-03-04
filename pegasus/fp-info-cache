@@ -1,4 +1,4 @@
-19826547861251604
+19829841167354131
 Adafruit_BNO055
 adafruit_
 
@@ -84517,3 +84517,17 @@ varistor SIOV
 0
 2
 2
+Voltage Regulator
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+Voltage Regulator
+TO255P460X1020X2008-3P
+3-Pin TO-220
+Integrated Circuit
+0
+3
+3

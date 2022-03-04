@@ -5,4 +5,5 @@
   (lib (name "Quectel_L70B-M39")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/Quectel_L70B-M39.pretty/Quectel_L70B-M39.kicad_sym")(options "")(descr ""))
   (lib (name "RFD900")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/RFD900.pretty/RFD900.kicad_sym")(options "")(descr ""))
   (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/component_libraries/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "Voltage Regulator")(type "Legacy")(uri "${KIPRJMOD}/component_libraries/SamaSys/SamacSys_Parts.lib")(options "")(descr ""))
 )
