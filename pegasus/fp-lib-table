@@ -5,4 +5,5 @@
   (lib (name "Quectel_L70B-M39")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/Quectel_L70B-M39.pretty")(options "")(descr ""))
   (lib (name "RFD900")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/RFD900.pretty")(options "")(descr ""))
   (lib (name "Voltage Regulator")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/SamaSys/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "SMA-Connectors")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/SMA-Connectors.pretty")(options "")(descr ""))
 )
