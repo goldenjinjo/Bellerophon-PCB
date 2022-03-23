@@ -1,4 +1,4 @@
-19831489091009336
+19833137032995995
 Adafruit_BNO055
 adafruit_
 
@@ -77585,8 +77585,15 @@ CON-SMA-EDGE-S
 
 
 0
+3
+2
+SMA-Connectors
+RFSOLUTIONS_CON-SMA-EDGE-S
+
+
 0
-0
+5
+5
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
