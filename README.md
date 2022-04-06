@@ -12,6 +12,7 @@ FOR PEGASUS:
 - Radio Transceiver: RFD900
 
 FOR BELLEROPHRON:
-- Microprocessor: TBD Teensy
-- Barometer/Altimeter: BMP388
-- Inertial Measurement Unit (IMU): TBD 
+- Microprocessor: Teensy 4
+- Barometer/Altimeter: Adafruit MPL3115A2
+- Inertial Measurement Unit (IMU): Adafruit ICM20948
+- Memory: TBD
