@@ -2069,7 +2069,7 @@
     (property "Reference" "IC1" (id 0) (at 132.6134 153.67 0)
       (effects (font (size 2.5 2.5)))
     )
-    (property "Value" "RFD900" (id 1) (at 132.6134 158.75 0)
+    (property "Value" "" (id 1) (at 132.6134 158.75 0)
       (effects (font (size 2.5 2.5)))
     )
     (property "Footprint" "RFD900:1x28" (id 2) (at 132.6134 159.385 0)
