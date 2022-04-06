@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/component_libraries/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "Adafruit")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/Adafruit/Adafruit.kicad_sym")(options "")(descr ""))
+  (lib (name "RFD900")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/RFD900/RFD900.kicad_sym")(options "")(descr ""))
+  (lib (name "Voltage Regulator")(type "Legacy")(uri "${KIPRJMOD}/component_libraries/SamaSys/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "sma-connectors")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/SMA-Connectors/sma-connectors.kicad_sym")(options "")(descr ""))
+)
