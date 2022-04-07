@@ -1,8 +1,8 @@
 (footprint "SD-CARD-B21.59x17.78mm-1X07_ROUND_70-P2.5mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 624F2823)
+  (tedit 624F3A43)
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 -2.54 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -2.54 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp bdc7face-9f7c-4701-80bb-4cc144448db1)
   )
