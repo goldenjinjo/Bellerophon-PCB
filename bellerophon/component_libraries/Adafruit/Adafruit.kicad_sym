@@ -39,7 +39,7 @@
         (name "MISO" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
       )
-      (pin bidirectional line (at 16.27 -2.5 90) (length 2.54)
+      (pin bidirectional line (at 16.256 -2.54 90) (length 2.54)
         (name "MOSI" (effects (font (size 1.27 1.27))))
         (number "6" (effects (font (size 1.27 1.27))))
       )
