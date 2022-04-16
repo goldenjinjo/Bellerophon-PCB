@@ -1998,10 +1998,10 @@
   (symbol (lib_id "Device:R_US") (at 42.926 174.752 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4058daa3-07dc-498a-89dd-e985387aac1f)
-    (property "Reference" "R?" (id 0) (at 45.466 173.4819 0)
+    (property "Reference" "R?" (id 0) (at 45.72 173.4819 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47 ohm" (id 1) (at 45.466 176.0219 0)
+    (property "Value" "225 ohm" (id 1) (at 45.72 176.0219 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 43.942 175.006 90)
@@ -2038,7 +2038,7 @@
     (property "Reference" "R?" (id 0) (at 21.336 173.4819 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100 ohm" (id 1) (at 21.336 176.022 0)
+    (property "Value" "225 ohm" (id 1) (at 21.336 176.022 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 19.812 175.006 90)
@@ -2084,7 +2084,7 @@
     (property "Value" "RGB LED" (id 1) (at 40.386 187.4519 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 32.766 186.182 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm-4_RGB" (id 2) (at 32.766 186.182 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 32.766 186.182 0)
@@ -2252,7 +2252,7 @@
     (property "Reference" "BZ1" (id 0) (at 68.326 178.5619 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Buzzer" (id 1) (at 68.326 181.1019 0)
+    (property "Value" "" (id 1) (at 68.326 181.1019 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 63.881 177.292 90)
@@ -2369,7 +2369,7 @@
     (property "Reference" "R?" (id 0) (at 34.036 173.4819 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47 ohm" (id 1) (at 32.766 176.022 0)
+    (property "Value" "225 ohm" (id 1) (at 32.766 176.022 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 32.512 175.006 90)
@@ -2658,7 +2658,7 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/8a393ed2-cfe0-4f0f-9490-ab6f8e39e2cc"
-      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "")
+      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer:PiezoBuzzer-PS1240")
     )
     (path "/b51c4f4d-7150-44f1-bc6e-ac0259dfc865"
       (reference "C?") (unit 1) (value "0.33 uF") (footprint "")
@@ -2667,7 +2667,7 @@
       (reference "C?") (unit 1) (value "0.1 uF") (footprint "")
     )
     (path "/4dfac32e-4940-40b5-a712-d1bb6a48045d"
-      (reference "D?") (unit 1) (value "RGB LED") (footprint "")
+      (reference "D?") (unit 1) (value "RGB LED") (footprint "LED_THT:LED_D5.0mm-4_RGB")
     )
     (path "/166a15f5-b912-4a16-89ec-b9d4543b2021"
       (reference "IC?") (unit 1) (value "L7805ACV") (footprint "TO255P460X1020X2008-3P")
@@ -2703,16 +2703,16 @@
       (reference "R3") (unit 1) (value "5 ohms") (footprint "")
     )
     (path "/4058daa3-07dc-498a-89dd-e985387aac1f"
-      (reference "R?") (unit 1) (value "47 ohm") (footprint "")
+      (reference "R?") (unit 1) (value "225 ohm") (footprint "")
     )
     (path "/483b7e8e-4d33-4fa9-ad55-51d1f684cb5f"
-      (reference "R?") (unit 1) (value "100 ohm") (footprint "")
+      (reference "R?") (unit 1) (value "225 ohm") (footprint "")
     )
     (path "/6195d1a0-cede-4bde-9f18-71023388ad6d"
       (reference "R?") (unit 1) (value "470 ohms") (footprint "")
     )
     (path "/bf8f6ead-0a61-4602-a380-1854a6481b0c"
-      (reference "R?") (unit 1) (value "47 ohm") (footprint "")
+      (reference "R?") (unit 1) (value "225 ohm") (footprint "")
     )
     (path "/d604b2e3-cb6b-47ed-9c5b-a93ae714592f"
       (reference "R?") (unit 1) (value "5 ohms") (footprint "")
