@@ -4,4 +4,5 @@
   (lib (name "RFD900")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/RFD900/RFD900.kicad_sym")(options "")(descr ""))
   (lib (name "Voltage Regulator")(type "Legacy")(uri "${KIPRJMOD}/component_libraries/SamaSys/SamacSys_Parts.lib")(options "")(descr ""))
   (lib (name "sma-connectors")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/SMA-Connectors/sma-connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "terminal-block")(type "Legacy")(uri "${KIPRJMOD}/component_libraries/SamaSys/20.500M_4.lib")(options "")(descr ""))
 )
