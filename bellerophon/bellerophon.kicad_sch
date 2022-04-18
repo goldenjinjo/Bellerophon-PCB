@@ -2594,7 +2594,7 @@
     (property "Value" "5 ohms" (id 1) (at 218.44 27.9399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 214.884 26.416 90)
+    (property "Footprint" "RS-Components:RESAD5390W107L2222D792" (id 2) (at 214.884 26.416 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.farnell.com/datasheets/2045697.pdf" (id 3) (at 215.9 26.67 0)
@@ -2648,7 +2648,7 @@
     (property "Value" "5 ohms" (id 1) (at 265.43 27.9399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 261.874 26.416 90)
+    (property "Footprint" "RS-Components:RESAD5390W107L2222D792" (id 2) (at 261.874 26.416 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.farnell.com/datasheets/2045697.pdf" (id 3) (at 262.89 26.67 0)
@@ -2890,10 +2890,10 @@
       (reference "C2") (unit 1) (value "0.1 uF") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/beabee5c-713a-42fc-b85b-96c135a36bbd"
-      (reference "CW0055R000JE1") (unit 1) (value "5 ohms") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "CW0055R000JE1") (unit 1) (value "5 ohms") (footprint "RS-Components:RESAD5390W107L2222D792")
     )
     (path "/d604b2e3-cb6b-47ed-9c5b-a93ae714592f"
-      (reference "CW0055R000JE2") (unit 1) (value "5 ohms") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "CW0055R000JE2") (unit 1) (value "5 ohms") (footprint "RS-Components:RESAD5390W107L2222D792")
     )
     (path "/4dfac32e-4940-40b5-a712-d1bb6a48045d"
       (reference "D1") (unit 1) (value "RGB LED") (footprint "LED_THT:LED_D5.0mm-4_RGB")
