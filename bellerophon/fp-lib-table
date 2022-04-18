@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Adafruit")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/Adafruit/Adafruit.pretty")(options "")(descr ""))
   (lib (name "Buzzer")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/Buzzer.pretty")(options "")(descr ""))
+  (lib (name "Diodes")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/Diodes.pretty")(options "")(descr ""))
 )
