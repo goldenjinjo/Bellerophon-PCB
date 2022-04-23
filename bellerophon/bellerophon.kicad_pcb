@@ -1202,7 +1202,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e77f1d56-c211-430d-accf-66e21b6abde1)
     )
-    (fp_text value "Teensy4.0" (at -7.585 -0.5 90) (layer "F.Fab")
+    (fp_text value "Teensy4.0" (at -4.735 -0.5 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 39211402-b9fe-4fbe-b865-b92525ce6e3f)
     )
@@ -1610,7 +1610,7 @@
   (gr_text "+" (at 160.2 145) (layer "F.SilkS") (tstamp dcaf5c3e-5409-4670-9d78-4acf0790d048)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "TEENSY 4.0" (at 170.25 92.25 90) (layer "F.SilkS") (tstamp f8eb0fbe-9dcb-4435-9aeb-8047b3a9bace)
+  (gr_text "TEENSY 4.0" (at 168 92.4 90) (layer "F.SilkS") (tstamp f8eb0fbe-9dcb-4435-9aeb-8047b3a9bace)
     (effects (font (size 1.3 1.3) (thickness 0.2)))
   )
 
