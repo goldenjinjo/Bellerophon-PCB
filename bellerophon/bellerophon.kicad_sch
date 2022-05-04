@@ -2397,7 +2397,7 @@
     (property "Reference" "Q1" (id 0) (at 219.71 37.3379 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IRLB8721PBF" (id 1) (at 219.71 39.8779 0)
+    (property "Value" "" (id 1) (at 219.71 39.8779 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:TO-263-2" (id 2) (at 219.71 40.513 0)
@@ -2741,7 +2741,7 @@
     (property "Reference" "Q2" (id 0) (at 266.7 37.3379 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IRLB8721PBF" (id 1) (at 266.7 39.8779 0)
+    (property "Value" "" (id 1) (at 266.7 39.8779 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:TO-263-2" (id 2) (at 266.7 40.513 0)
@@ -3374,10 +3374,10 @@
       (reference "PYRO1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
     )
     (path "/1e0e46e8-2155-41fc-9dc9-1d358b5e53b1"
-      (reference "Q1") (unit 1) (value "IRLB8721PBF") (footprint "Package_TO_SOT_SMD:TO-263-2")
+      (reference "Q1") (unit 1) (value "PSMN4R3-30BL") (footprint "Package_TO_SOT_SMD:TO-263-2")
     )
     (path "/7c709418-6877-43ee-9e3a-5be10d2356b1"
-      (reference "Q2") (unit 1) (value "IRLB8721PBF") (footprint "Package_TO_SOT_SMD:TO-263-2")
+      (reference "Q2") (unit 1) (value "PSMN4R3-30BL") (footprint "Package_TO_SOT_SMD:TO-263-2")
     )
     (path "/bf30814b-2c47-4a9f-bef5-fb03410fb56d"
       (reference "R1") (unit 1) (value "225 ohm") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
