@@ -3115,7 +3115,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ba39f310-23c5-4a56-baa7-cf88b08d466d)
     (property "Reference" "U1" (id 0) (at 67.31 20.32 0))
-    (property "Value" "H7650" (id 1) (at 67.31 22.86 0))
+    (property "Value" "HT7350-A" (id 1) (at 67.31 22.86 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-89-3" (id 2) (at 67.31 22.225 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
@@ -3545,7 +3545,7 @@
       (reference "TERMINAL1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
     )
     (path "/ba39f310-23c5-4a56-baa7-cf88b08d466d"
-      (reference "U1") (unit 1) (value "H7650") (footprint "Package_TO_SOT_SMD:SOT-89-3")
+      (reference "U1") (unit 1) (value "HT7350-A") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
     (path "/1c61f331-fa92-48e1-9819-ab0be4ebf718"
       (reference "U2") (unit 1) (value "Adafruit_ICM20948") (footprint "Adafruit:ICM20946-B25.4x17.78mm-2X06_ROUND-P2.54mm")

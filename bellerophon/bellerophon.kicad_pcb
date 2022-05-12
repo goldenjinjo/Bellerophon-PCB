@@ -1442,7 +1442,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 494a6b97-f33e-4834-b724-0c3a3ff54317)
     )
-    (fp_text value "HT75xx-1-SOT89" (at 0.3 3.5 90) (layer "F.Fab")
+    (fp_text value "HT7350-A" (at -0.5 3.6 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 506110af-ac51-4501-bfa6-1552a848d599)
     )
