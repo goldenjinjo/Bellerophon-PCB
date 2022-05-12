@@ -2330,7 +2330,7 @@
   (symbol (lib_id "power:GND") (at 245.11 46.228 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 010f598c-658c-4866-ab86-c896f9b5850a)
-    (property "Reference" "#PWR020" (id 0) (at 245.11 52.578 0)
+    (property "Reference" "#PWR021" (id 0) (at 245.11 52.578 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 245.11 51.308 0))
@@ -2346,7 +2346,7 @@
   (symbol (lib_id "power:GND") (at 118.11 74.93 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0b8be5aa-b976-4631-a22c-133d8defbfc5)
-    (property "Reference" "#PWR012" (id 0) (at 111.76 74.93 0)
+    (property "Reference" "#PWR013" (id 0) (at 111.76 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 110.49 74.93 90)
@@ -2400,7 +2400,7 @@
   (symbol (lib_id "power:GND") (at 107.95 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0fd9c5ac-c3f0-4510-81b6-a53abab940bf)
-    (property "Reference" "#PWR010" (id 0) (at 107.95 194.31 0)
+    (property "Reference" "#PWR011" (id 0) (at 107.95 194.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 107.95 193.04 0))
@@ -2416,7 +2416,7 @@
   (symbol (lib_id "power:GND") (at 179.578 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 175e121f-7820-4fc3-8a04-4b54110fc896)
-    (property "Reference" "#PWR016" (id 0) (at 185.928 92.71 0)
+    (property "Reference" "#PWR017" (id 0) (at 185.928 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 187.198 92.71 90)
@@ -2463,7 +2463,7 @@
   (symbol (lib_id "Transistor_FET:IRLB8721PBF") (at 213.36 38.608 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1e0e46e8-2155-41fc-9dc9-1d358b5e53b1)
-    (property "Reference" "Q1" (id 0) (at 219.71 37.3379 0)
+    (property "Reference" "Q2" (id 0) (at 219.71 37.3379 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IRLL014NPBF" (id 1) (at 219.71 39.8779 0)
@@ -2508,7 +2508,7 @@
   (symbol (lib_id "power:GND") (at 251.206 81.28 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 27d2c996-c3d5-4e56-8ab9-94f71e658c9e)
-    (property "Reference" "#PWR021" (id 0) (at 244.856 81.28 0)
+    (property "Reference" "#PWR022" (id 0) (at 244.856 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 243.586 81.28 90)
@@ -2574,7 +2574,7 @@
   (symbol (lib_id "power:GND") (at 154.686 51.816 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 379b043c-5ce8-4581-9188-d5d859d02e5d)
-    (property "Reference" "#PWR013" (id 0) (at 161.036 51.816 0)
+    (property "Reference" "#PWR014" (id 0) (at 161.036 51.816 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 158.242 51.8159 90)
@@ -2592,7 +2592,7 @@
   (symbol (lib_id "power:GND") (at 160.528 44.196 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 422059bf-aa97-4fe9-a215-54e7e3aaa1dd)
-    (property "Reference" "#PWR014" (id 0) (at 166.878 44.196 0)
+    (property "Reference" "#PWR015" (id 0) (at 166.878 44.196 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 165.862 44.196 0))
@@ -2608,7 +2608,7 @@
   (symbol (lib_id "Transistor_FET:TSM2301ACX") (at 41.91 38.1 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 43963cea-368b-4863-85f3-8f5acb306b53)
-    (property "Reference" "Q?" (id 0) (at 41.91 28.448 90))
+    (property "Reference" "Q1" (id 0) (at 41.91 28.448 90))
     (property "Value" "ST3413A" (id 1) (at 41.91 30.988 90))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 43.815 33.02 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
@@ -2624,7 +2624,7 @@
   (symbol (lib_id "power:GND") (at 67.31 45.72 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 48e312c9-747e-4b6c-8f35-0bf88fef02a1)
-    (property "Reference" "#PWR08" (id 0) (at 67.31 52.07 0)
+    (property "Reference" "#PWR09" (id 0) (at 67.31 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 67.31 52.324 90)
@@ -2710,7 +2710,7 @@
   (symbol (lib_id "power:GND") (at 283.21 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 57de6718-de2f-4fac-abfd-68bd16c8a22b)
-    (property "Reference" "#PWR023" (id 0) (at 283.21 31.75 0)
+    (property "Reference" "#PWR024" (id 0) (at 283.21 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 283.21 30.48 0))
@@ -2726,7 +2726,7 @@
   (symbol (lib_id "power:GND") (at 215.9 46.228 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 603234be-4ddd-4c53-aee9-9f0cc36eaf7b)
-    (property "Reference" "#PWR019" (id 0) (at 215.9 52.578 0)
+    (property "Reference" "#PWR020" (id 0) (at 215.9 52.578 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 215.9 51.308 0))
@@ -2776,7 +2776,7 @@
   (symbol (lib_id "power:GND") (at 198.12 46.228 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 693fd986-36e0-4ab5-8fb0-24d4a039414a)
-    (property "Reference" "#PWR018" (id 0) (at 198.12 52.578 0)
+    (property "Reference" "#PWR019" (id 0) (at 198.12 52.578 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 198.12 51.308 0))
@@ -2792,7 +2792,7 @@
   (symbol (lib_id "power:GND") (at 41.91 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6da911ad-f54a-4fac-9f73-a6c4eb0e67f1)
-    (property "Reference" "#PWR?" (id 0) (at 41.91 49.53 0)
+    (property "Reference" "#PWR07" (id 0) (at 41.91 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 43.942 44.4499 0)
@@ -2828,7 +2828,7 @@
   (symbol (lib_id "Transistor_FET:IRLB8721PBF") (at 260.35 38.608 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7c709418-6877-43ee-9e3a-5be10d2356b1)
-    (property "Reference" "Q2" (id 0) (at 266.7 37.3379 0)
+    (property "Reference" "Q3" (id 0) (at 266.7 37.3379 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IRLL014NPBF" (id 1) (at 266.7 39.8779 0)
@@ -2863,7 +2863,7 @@
   (symbol (lib_id "power:GND") (at 71.882 189.738 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 80881318-82e5-40d7-b92d-c41a41b7e7f9)
-    (property "Reference" "#PWR09" (id 0) (at 71.882 196.088 0)
+    (property "Reference" "#PWR010" (id 0) (at 71.882 196.088 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 71.882 194.818 0))
@@ -2879,7 +2879,7 @@
   (symbol (lib_id "power:GND") (at 31.496 191.262 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8574cb49-2fea-4bc3-bf00-23730872c3bf)
-    (property "Reference" "#PWR05" (id 0) (at 31.496 197.612 0)
+    (property "Reference" "#PWR06" (id 0) (at 31.496 197.612 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 31.496 196.342 0))
@@ -2914,7 +2914,7 @@
   (symbol (lib_id "power:GND") (at 111.252 36.576 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 917fa727-05c9-400d-9a1f-67821586403c)
-    (property "Reference" "#PWR011" (id 0) (at 111.252 42.926 0)
+    (property "Reference" "#PWR012" (id 0) (at 111.252 42.926 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 111.252 41.91 0))
@@ -3016,7 +3016,7 @@
   (symbol (lib_id "power:GND") (at 195.58 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a8f3f2fd-ddc4-4892-92b2-53a7eee10fe3)
-    (property "Reference" "#PWR017" (id 0) (at 195.58 31.75 0)
+    (property "Reference" "#PWR018" (id 0) (at 195.58 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 195.58 30.48 0))
@@ -3115,7 +3115,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ba39f310-23c5-4a56-baa7-cf88b08d466d)
     (property "Reference" "U1" (id 0) (at 67.31 20.32 0))
-    (property "Value" "HT75xx-1-SOT89" (id 1) (at 67.31 22.86 0))
+    (property "Value" "H7650" (id 1) (at 67.31 22.86 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-89-3" (id 2) (at 67.31 22.225 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
@@ -3163,7 +3163,7 @@
   (symbol (lib_id "power:GND") (at 56.896 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c40dffab-4197-4353-9fae-51076687d968)
-    (property "Reference" "#PWR07" (id 0) (at 56.896 195.58 0)
+    (property "Reference" "#PWR08" (id 0) (at 56.896 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 56.896 194.31 0))
@@ -3197,7 +3197,7 @@
   (symbol (lib_id "power:GND") (at 25.654 30.226 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d64678b1-98e2-4486-a702-3fe1b97dd956)
-    (property "Reference" "#PWR06" (id 0) (at 32.004 30.226 0)
+    (property "Reference" "#PWR05" (id 0) (at 32.004 30.226 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 29.464 30.2259 90)
@@ -3245,7 +3245,7 @@
   (symbol (lib_id "power:GND") (at 173.99 135.89 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e8a79739-2d35-4a18-a6d8-cb048de3094d)
-    (property "Reference" "#PWR015" (id 0) (at 180.34 135.89 0)
+    (property "Reference" "#PWR016" (id 0) (at 180.34 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 180.594 135.89 90)
@@ -3367,7 +3367,7 @@
   (symbol (lib_id "power:GND") (at 262.89 46.228 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f6a96f3c-ab94-4454-9c87-735341c02940)
-    (property "Reference" "#PWR022" (id 0) (at 262.89 52.578 0)
+    (property "Reference" "#PWR023" (id 0) (at 262.89 52.578 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 262.89 51.308 0))
@@ -3397,65 +3397,65 @@
     (path "/0bb8e3cb-fb62-410b-9ea6-e12610a17a04"
       (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
-    (path "/8574cb49-2fea-4bc3-bf00-23730872c3bf"
+    (path "/d64678b1-98e2-4486-a702-3fe1b97dd956"
       (reference "#PWR05") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d64678b1-98e2-4486-a702-3fe1b97dd956"
+    (path "/8574cb49-2fea-4bc3-bf00-23730872c3bf"
       (reference "#PWR06") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c40dffab-4197-4353-9fae-51076687d968"
+    (path "/6da911ad-f54a-4fac-9f73-a6c4eb0e67f1"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
     )
-    (path "/48e312c9-747e-4b6c-8f35-0bf88fef02a1"
+    (path "/c40dffab-4197-4353-9fae-51076687d968"
       (reference "#PWR08") (unit 1) (value "GND") (footprint "")
     )
-    (path "/80881318-82e5-40d7-b92d-c41a41b7e7f9"
+    (path "/48e312c9-747e-4b6c-8f35-0bf88fef02a1"
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")
     )
-    (path "/0fd9c5ac-c3f0-4510-81b6-a53abab940bf"
+    (path "/80881318-82e5-40d7-b92d-c41a41b7e7f9"
       (reference "#PWR010") (unit 1) (value "GND") (footprint "")
     )
-    (path "/917fa727-05c9-400d-9a1f-67821586403c"
+    (path "/0fd9c5ac-c3f0-4510-81b6-a53abab940bf"
       (reference "#PWR011") (unit 1) (value "GND") (footprint "")
     )
-    (path "/0b8be5aa-b976-4631-a22c-133d8defbfc5"
+    (path "/917fa727-05c9-400d-9a1f-67821586403c"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
     )
-    (path "/379b043c-5ce8-4581-9188-d5d859d02e5d"
+    (path "/0b8be5aa-b976-4631-a22c-133d8defbfc5"
       (reference "#PWR013") (unit 1) (value "GND") (footprint "")
     )
-    (path "/422059bf-aa97-4fe9-a215-54e7e3aaa1dd"
+    (path "/379b043c-5ce8-4581-9188-d5d859d02e5d"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "")
     )
-    (path "/e8a79739-2d35-4a18-a6d8-cb048de3094d"
+    (path "/422059bf-aa97-4fe9-a215-54e7e3aaa1dd"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
-    (path "/175e121f-7820-4fc3-8a04-4b54110fc896"
+    (path "/e8a79739-2d35-4a18-a6d8-cb048de3094d"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
-    (path "/a8f3f2fd-ddc4-4892-92b2-53a7eee10fe3"
+    (path "/175e121f-7820-4fc3-8a04-4b54110fc896"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
-    (path "/693fd986-36e0-4ab5-8fb0-24d4a039414a"
+    (path "/a8f3f2fd-ddc4-4892-92b2-53a7eee10fe3"
       (reference "#PWR018") (unit 1) (value "GND") (footprint "")
     )
-    (path "/603234be-4ddd-4c53-aee9-9f0cc36eaf7b"
+    (path "/693fd986-36e0-4ab5-8fb0-24d4a039414a"
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
     )
-    (path "/010f598c-658c-4866-ab86-c896f9b5850a"
+    (path "/603234be-4ddd-4c53-aee9-9f0cc36eaf7b"
       (reference "#PWR020") (unit 1) (value "GND") (footprint "")
     )
-    (path "/27d2c996-c3d5-4e56-8ab9-94f71e658c9e"
+    (path "/010f598c-658c-4866-ab86-c896f9b5850a"
       (reference "#PWR021") (unit 1) (value "GND") (footprint "")
     )
-    (path "/f6a96f3c-ab94-4454-9c87-735341c02940"
+    (path "/27d2c996-c3d5-4e56-8ab9-94f71e658c9e"
       (reference "#PWR022") (unit 1) (value "GND") (footprint "")
     )
-    (path "/57de6718-de2f-4fac-abfd-68bd16c8a22b"
+    (path "/f6a96f3c-ab94-4454-9c87-735341c02940"
       (reference "#PWR023") (unit 1) (value "GND") (footprint "")
     )
-    (path "/6da911ad-f54a-4fac-9f73-a6c4eb0e67f1"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/57de6718-de2f-4fac-abfd-68bd16c8a22b"
+      (reference "#PWR024") (unit 1) (value "GND") (footprint "")
     )
     (path "/8a393ed2-cfe0-4f0f-9490-ab6f8e39e2cc"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer:PiezoBuzzer-PS1240")
@@ -3493,14 +3493,14 @@
     (path "/5620a5d1-5ff3-4571-a459-9ba2d157b919"
       (reference "PYRO1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
     )
-    (path "/1e0e46e8-2155-41fc-9dc9-1d358b5e53b1"
-      (reference "Q1") (unit 1) (value "IRLL014NPBF") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+    (path "/43963cea-368b-4863-85f3-8f5acb306b53"
+      (reference "Q1") (unit 1) (value "ST3413A") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/7c709418-6877-43ee-9e3a-5be10d2356b1"
+    (path "/1e0e46e8-2155-41fc-9dc9-1d358b5e53b1"
       (reference "Q2") (unit 1) (value "IRLL014NPBF") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
-    (path "/43963cea-368b-4863-85f3-8f5acb306b53"
-      (reference "Q?") (unit 1) (value "ST3413A") (footprint "Package_TO_SOT_SMD:SOT-23")
+    (path "/7c709418-6877-43ee-9e3a-5be10d2356b1"
+      (reference "Q3") (unit 1) (value "IRLL014NPBF") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/b5e0014b-e7da-426b-94bd-146b6879c8aa"
       (reference "R1") (unit 1) (value "225 ohm") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
@@ -3545,7 +3545,7 @@
       (reference "TERMINAL1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
     )
     (path "/ba39f310-23c5-4a56-baa7-cf88b08d466d"
-      (reference "U1") (unit 1) (value "HT75xx-1-SOT89") (footprint "Package_TO_SOT_SMD:SOT-89-3")
+      (reference "U1") (unit 1) (value "H7650") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
     (path "/1c61f331-fa92-48e1-9819-ab0be4ebf718"
       (reference "U2") (unit 1) (value "Adafruit_ICM20948") (footprint "Adafruit:ICM20946-B25.4x17.78mm-2X06_ROUND-P2.54mm")
