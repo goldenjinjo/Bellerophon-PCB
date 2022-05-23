@@ -6,4 +6,5 @@
   (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/teensy_library-master/teensy.pretty")(options "")(descr ""))
   (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
   (lib (name "Adafruit SPI Flash SD Card")(type "KiCad")(uri "C:/Users/Daniel/avionics/hardware/breakout-boards/Adafruit-SPI-Flash-SD-Card/Adafruit SPI Flash SD Card.pretty")(options "")(descr ""))
+  (lib (name "XTSD")(type "KiCad")(uri "${KIPRJMOD}/component_libraries/XTSD")(options "")(descr ""))
 )
