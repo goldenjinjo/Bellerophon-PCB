@@ -2479,7 +2479,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a1cc739f-9032-436d-811f-ec0a0f90d4e5)
   )
-  (label "SCL0" (at 157.48 166.37 0)
+  (label "SCL0" (at 153.924 166.37 0)
     (effects (font (size 1.2446 1.2446)) (justify left bottom))
     (uuid a1cd4c70-9497-4543-b1a0-d109012d7cc7)
   )
