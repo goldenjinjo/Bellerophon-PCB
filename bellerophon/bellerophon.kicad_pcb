@@ -203,7 +203,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 09e04927-dfea-4dda-908e-bd0fc3f3fc1f)
-    (at 233.4 135.1875)
+    (at 234 135)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "bellerophon.kicad_sch")
@@ -1498,7 +1498,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp add90365-59e6-451f-89f8-8665d94a32ba)
-    (at 206.4 135.1875)
+    (at 206 135)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "bellerophon.kicad_sch")
