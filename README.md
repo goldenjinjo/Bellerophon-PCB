@@ -1,5 +1,7 @@
 # hardware
-Schematic And PCB Design for Flight Computers
+Pronounced: BE-LLER-O-FIN
+
+Pyro-capable Flight Computer with a pressure sensor and IMU. Designed to be general purpose and small enough to fit inside any rocket.
 
 
 **NON-COMPRHENSIVE PARTS LIST:**
