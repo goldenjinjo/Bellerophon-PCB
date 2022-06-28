@@ -13,6 +13,6 @@ FOR PEGASUS:
 
 FOR BELLEROPHRON:
 - Microprocessor: Teensy 4
-- Barometer/Altimeter: Adafruit MPL3115A2
-- Inertial Measurement Unit (IMU): Adafruit ICM20948
-- Memory: Adafruit SPI FLash Card - XTSD 512 MB
+- Barometer/Altimeter: MPL3115A2
+- Inertial Measurement Unit (IMU): BNO055
+- Memory: XTSD 4GB NAND Flash
