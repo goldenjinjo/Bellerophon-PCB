@@ -1,15 +1,11 @@
 # hardware
-Schematic And PCB Design for Flight Computers
+Pronounced: BE-LLER-O-FIN
+
+Pyro-capable Flight Computer with a pressure sensor and IMU. Designed to be general purpose and small enough to fit inside any rocket.
 
 
 **NON-COMPRHENSIVE PARTS LIST:**
 
-FOR PEGASUS:
-- Microprocessor: Teensy 4.1
-- Barometer/Altimeter: Adafruit MPL3115A2
-- Inertial Measurement Unit (IMU): Adafruit BNO055
-- Global Posiitioning System (GPS): Quectel L70B-M39
-- Radio Transceiver: RFD900
 
 FOR BELLEROPHRON:
 - Microprocessor: Teensy 4
