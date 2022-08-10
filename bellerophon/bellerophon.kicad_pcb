@@ -5777,7 +5777,7 @@
   (gr_arc (start 204.5 139) (mid 202.37868 138.12132) (end 201.5 136) (layer "Edge.Cuts") (width 0.1) (tstamp b513f889-cfeb-4c17-95cf-f8e0e7cb716a))
   (gr_line (start 204.5 139) (end 235.5 139) (layer "Edge.Cuts") (width 0.1) (tstamp d308365a-15a0-4566-99c4-34660b7076e7))
   (gr_line (start 201.5 63) (end 201.5 136) (layer "Edge.Cuts") (width 0.1) (tstamp e9de8e45-821c-4a78-8746-fe03e3281576))
-  (gr_text "V2" (at 219.7 129.3) (layer "B.SilkS") (tstamp 37cbee1c-d7c0-41ff-9e3c-8542c569190d)
+  (gr_text "V2.1" (at 219.7 129.5) (layer "B.SilkS") (tstamp 37cbee1c-d7c0-41ff-9e3c-8542c569190d)
     (effects (font (size 3 3) (thickness 0.6)) (justify mirror))
   )
   (gr_text "Bellerophon\n" (at 220 62) (layer "B.SilkS") (tstamp 899e1c97-59c1-4def-8f85-d0b5aac7f37c)
@@ -5812,6 +5812,9 @@
   )
   (gr_text ">" (at 237.3 84.0375) (layer "F.SilkS") (tstamp d0892135-273b-4130-9ade-02c8e716a515)
     (effects (font (size 2 2) (thickness 0.3)))
+  )
+  (gr_text "V2.1" (at 204 100.9 270) (layer "F.SilkS") (tstamp e918b919-3275-46f5-9abf-7feb327608c4)
+    (effects (font (size 1.2 1.2) (thickness 0.2)))
   )
 
   (segment (start 206.6 119.4625) (end 207.1625 118.9) (width 0.2) (layer "F.Cu") (net 1) (tstamp 01d3944a-eec0-447a-8dfe-662b847ce924))
