@@ -3311,7 +3311,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x04") (at 229.87 19.558 90) (unit 1)
     (in_bom no) (on_board yes)
     (uuid 5620a5d1-5ff3-4571-a459-9ba2d157b919)
-    (property "Reference" "PYRO1" (id 0) (at 231.14 14.224 90))
+    (property "Reference" "J2" (id 0) (at 231.14 14.224 90))
     (property "Value" "Screw_Terminal_01x04" (id 1) (at 231.14 16.764 90))
     (property "Footprint" "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P" (id 2) (at 229.87 19.558 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3717,7 +3717,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x04") (at 20.574 27.686 180) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a6785074-04ef-4659-a3ac-ebad7b1a7692)
-    (property "Reference" "TERMINAL1" (id 0) (at 20.574 16.256 0))
+    (property "Reference" "J1" (id 0) (at 20.574 16.256 0))
     (property "Value" "Screw_Terminal_01x04" (id 1) (at 20.574 18.796 0))
     (property "Footprint" "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P" (id 2) (at 20.574 27.686 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4470,8 +4470,11 @@
     (path "/be0b653a-deab-4d86-93c4-709a69618ca3"
       (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
     )
+    (path "/a6785074-04ef-4659-a3ac-ebad7b1a7692"
+      (reference "J1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
+    )
     (path "/5620a5d1-5ff3-4571-a459-9ba2d157b919"
-      (reference "PYRO1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
+      (reference "J2") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
     )
     (path "/43963cea-368b-4863-85f3-8f5acb306b53"
       (reference "Q1") (unit 1) (value "ST3413A") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -4538,9 +4541,6 @@
     )
     (path "/a91641b5-09f0-4dfe-afc4-08ca53819e29"
       (reference "R19") (unit 1) (value "49.9k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
-    )
-    (path "/a6785074-04ef-4659-a3ac-ebad7b1a7692"
-      (reference "TERMINAL1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:SHDR4W100P0X500_1X4_2000X800X1000P")
     )
     (path "/ba39f310-23c5-4a56-baa7-cf88b08d466d"
       (reference "U1") (unit 1) (value "HT7350-A") (footprint "Package_TO_SOT_SMD:SOT-89-3")
