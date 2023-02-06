@@ -2887,7 +2887,7 @@
     (property "Value" "Buzzer" (id 1) (at 63.5 177.8 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Buzzer:GSC128065YB-16R2400" (id 2) (at 59.055 173.228 90)
+    (property "Footprint" "Buzzer:YUEXIN YX-SMD5020" (id 2) (at 59.055 173.228 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 59.055 173.228 90)
@@ -3690,7 +3690,7 @@
       (reference "#PWR027") (unit 1) (value "GND") (footprint "")
     )
     (path "/8a393ed2-cfe0-4f0f-9490-ab6f8e39e2cc"
-      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer:GSC128065YB-16R2400")
+      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer:YUEXIN YX-SMD5020")
     )
     (path "/b8650d51-eff7-4c07-9f39-e52b608b61ce"
       (reference "C1") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
