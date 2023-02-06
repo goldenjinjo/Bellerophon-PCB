@@ -2657,7 +2657,7 @@
     (uuid 5620a5d1-5ff3-4571-a459-9ba2d157b919)
     (property "Reference" "J3" (id 0) (at 228.346 14.224 90))
     (property "Value" "Screw_Terminal_01x04" (id 1) (at 228.346 16.764 90))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 227.076 19.558 0)
+    (property "Footprint" "RS-Components:screw_terminal_3.5mm_4_pin" (id 2) (at 227.076 19.558 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 227.076 19.558 0)
@@ -2816,7 +2816,7 @@
     (uuid 73e5981d-db5c-4282-834f-560ff44d4dd9)
     (property "Reference" "J4" (id 0) (at 353.695 11.938 90))
     (property "Value" "Screw_Terminal_01x04" (id 1) (at 353.695 14.478 90))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 352.425 17.272 0)
+    (property "Footprint" "RS-Components:screw_terminal_3.5mm_4_pin" (id 2) (at 352.425 17.272 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 352.425 17.272 0)
@@ -2954,7 +2954,7 @@
     (uuid a6785074-04ef-4659-a3ac-ebad7b1a7692)
     (property "Reference" "J1" (id 0) (at 20.574 16.256 0))
     (property "Value" "Screw_Terminal_01x04" (id 1) (at 20.574 18.796 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 20.574 27.686 0)
+    (property "Footprint" "RS-Components:screw_terminal_3.5mm_4_pin" (id 2) (at 20.574 27.686 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 20.574 27.686 0)
@@ -3717,16 +3717,16 @@
       (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
     )
     (path "/a6785074-04ef-4659-a3ac-ebad7b1a7692"
-      (reference "J1") (unit 1) (value "Screw_Terminal_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:screw_terminal_3.5mm_4_pin")
     )
     (path "/be7646a7-6e9a-430b-8a19-0ea9b072fd2a"
       (reference "J2") (unit 1) (value "Screw_Terminal_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/5620a5d1-5ff3-4571-a459-9ba2d157b919"
-      (reference "J3") (unit 1) (value "Screw_Terminal_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:screw_terminal_3.5mm_4_pin")
     )
     (path "/73e5981d-db5c-4282-834f-560ff44d4dd9"
-      (reference "J4") (unit 1) (value "Screw_Terminal_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "Screw_Terminal_01x04") (footprint "RS-Components:screw_terminal_3.5mm_4_pin")
     )
     (path "/ffdd2932-0263-4b0d-976c-c3107bb66427"
       (reference "Q1") (unit 1) (value "SPP3414S23RG") (footprint "Package_TO_SOT_SMD:SOT-23")
