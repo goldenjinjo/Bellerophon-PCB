@@ -4,7 +4,8 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
-      "GND"
+      "GND",
+      "+3.3V"
     ],
     "high_contrast_mode": 1,
     "net_color_mode": 1,
@@ -38,6 +39,7 @@
       7,
       9,
       10,
+      11,
       12,
       13,
       14,
