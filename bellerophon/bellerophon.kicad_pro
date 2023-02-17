@@ -408,7 +408,7 @@
       "netlist": "./",
       "specctra_dsn": "",
       "step": "bellerophon.step",
-      "vrml": ""
+      "vrml": "bellerophon.wrl"
     },
     "page_layout_descr_file": ""
   },
