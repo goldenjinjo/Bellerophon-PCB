@@ -4,7 +4,40 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
-      "+5V"
+      "+5V",
+      "+3.3V",
+      "/SCL0",
+      "/SDA0",
+      "/CS",
+      "/MOSI",
+      "/SCK",
+      "Net-(J5-Pad1)",
+      "Net-(J5-Pad4)",
+      "/MISO",
+      "/BZR",
+      "BATT+",
+      "/CAP1",
+      "/RGB_BLU",
+      "/RGB_RED",
+      "/PYRO_DROUGE",
+      "/DROUGE_TEST",
+      "/PYRO_MAIN",
+      "/MAIN_TEST",
+      "/RX1",
+      "/TX1",
+      "/PYRO_3",
+      "/PYRO_4",
+      "/PYRO_3_TEST",
+      "/PYRO_4_TEST",
+      "Net-(D4-Pad1)",
+      "Net-(D4-Pad2)",
+      "Net-(D5-Pad1)",
+      "Net-(D1-Pad2)",
+      "Net-(D7-Pad1)",
+      "/batt_in",
+      "Net-(D9-Pad2)",
+      "Net-(D3-Pad2)",
+      "Net-(D9-Pad1)"
     ],
     "high_contrast_mode": 1,
     "net_color_mode": 1,
@@ -12,7 +45,7 @@
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.4399999976158142
+      "zones": 0.07999999821186066
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -35,7 +68,7 @@
       3,
       4,
       5,
-      7,
+      8,
       9,
       10,
       11,
@@ -62,10 +95,9 @@
       33,
       34,
       35,
-      36,
-      37
+      36
     ],
-    "visible_layers": "7ffffff_00000001",
+    "visible_layers": "007d8f5_80000001",
     "zone_display_mode": 0
   },
   "meta": {
