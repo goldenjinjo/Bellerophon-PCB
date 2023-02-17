@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
@@ -30,7 +30,6 @@
       "Net-(D4-Pad1)",
       "Net-(D4-Pad2)",
       "Net-(D5-Pad1)",
-      "Net-(D1-Pad2)",
       "Net-(D7-Pad1)",
       "/batt_in",
       "Net-(D9-Pad2)",
@@ -95,7 +94,7 @@
       35,
       36
     ],
-    "visible_layers": "003fff4_80000000",
+    "visible_layers": "003fff4_80000001",
     "zone_display_mode": 0
   },
   "meta": {
