@@ -1,6 +1,6 @@
 (footprint "screw_terminal_3.5mm_4_pin" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
+  (tedit 63EFA152)
   (attr through_hole)
   (fp_text reference "REF**" (at 8.1 -4.4 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -34,4 +34,9 @@
   (pad "2" thru_hole circle (at 5.2 3.975) (size 1.8 1.8) (drill 1.2) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 7471f493-3c65-4e5f-b560-6fef541c5698))
   (pad "3" thru_hole circle (at 8.7 3.975) (size 1.8 1.8) (drill 1.2) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp e3ce3ab0-46ef-4e63-baa1-ed874b311010))
   (pad "4" thru_hole circle (at 12.2 3.975) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp 53f7be6e-48f7-4597-8605-70ae449141f0))
+  (model "${KIPRJMOD}/component_libraries/SamaSys/SamacSys_Parts.3dshapes/4pin-3.5mm.stp"
+    (offset (xyz 14.5 0 0))
+    (scale (xyz 1 1 1.4))
+    (rotate (xyz 90 180 90))
+  )
 )

@@ -2597,7 +2597,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid e45cc9d6-c54e-47ea-9a2e-4848fe166f17)
   )
-  (text "Inertial Measurement Sensor" (at 95.25 151.13 0)
+  (text "Inertial Measurement Sensors" (at 95.25 151.13 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid f740cb02-456f-4f2f-94f5-dc70749cfefe)
   )
