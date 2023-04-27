@@ -3,33 +3,7 @@
     "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_nets": [
-      "+5V",
-      "+3.3V",
-      "/CS",
-      "/MOSI",
-      "/SCK",
-      "Net-(J5-Pad1)",
-      "Net-(J5-Pad4)",
-      "/MISO",
-      "/BZR",
-      "BATT+",
-      "/CAP1",
-      "/RGB_BLU",
-      "/RGB_RED",
-      "/PYRO_DROUGE",
-      "/PYRO_MAIN",
-      "/RX1",
-      "/TX1",
-      "/PYRO_3",
-      "/PYRO_4",
-      "Net-(D4-Pad1)",
-      "Net-(D4-Pad2)",
-      "Net-(D5-Pad1)",
-      "Net-(D7-Pad1)",
-      "/batt_in",
-      "Net-(D3-Pad2)"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -88,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "007ff31_80000001",
+    "visible_layers": "005ff21_00000001",
     "zone_display_mode": 0
   },
   "meta": {
