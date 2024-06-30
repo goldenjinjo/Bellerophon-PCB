@@ -1,6 +1,6 @@
 (footprint "ICM20946-B25.4x17.78mm-2X06_ROUND-P2.54mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62532E16)
+  (tedit 63EFA764)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -58,4 +58,14 @@
     (solder_mask_margin 0.0508) (tstamp da151d0a-a1fa-4865-aa78-eb4b6082fbfd))
   (pad "12" thru_hole circle (at 8.146051 6.876051 270) (size 1.778 1.778) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.0508) (tstamp 22fd57c4-481e-4417-b920-694451210da2))
+  (model "${KIPRJMOD}/component_libraries/Adafruit/Adafruit ICM20948 STEMMA QT.step"
+    (offset (xyz 1.5 -13 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/component_libraries/3D_models/headers-2-54mm-1.snapshot.13/Header, Male, 2.54mm, 1x6.STEP"
+    (offset (xyz 8.1 -19.5 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )

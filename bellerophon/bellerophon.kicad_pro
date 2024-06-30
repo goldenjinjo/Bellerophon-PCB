@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.6
+          "min_clearance": 0.39999999999999997
         }
       },
       "diff_pair_dimensions": [
@@ -120,7 +120,8 @@
       },
       "track_widths": [
         0.0,
-        1.5
+        0.6,
+        1.0
       ],
       "via_dimensions": [
         {
@@ -128,8 +129,12 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.45,
-          "drill": 0.2
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false,
@@ -358,7 +363,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
+        "clearance": 0.127,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -404,7 +409,7 @@
       "netlist": "./",
       "specctra_dsn": "",
       "step": "bellerophon.step",
-      "vrml": ""
+      "vrml": "bellerophon.wrl"
     },
     "page_layout_descr_file": ""
   },
