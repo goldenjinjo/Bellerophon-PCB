@@ -9,6 +9,7 @@
 *.sch-bak
 *.kicad_sch-bak
 *.zip
+~*.lck
 *~
 _autosave-*
 *.tmp
@@ -26,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Mac Files
+*.DS_Store
