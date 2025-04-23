@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "Adafruit BNO055-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit BNO055-eagle-import.kicad_sym")(options "")(descr ""))
-)

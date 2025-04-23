@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "Adafruit SPI Flash SD Card")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit SPI Flash SD Card.pretty")(options "")(descr ""))
-)

@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "Adafruit ICM20948")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit ICM20948.pretty")(options "")(descr ""))
-)
